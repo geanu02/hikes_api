@@ -1,32 +1,34 @@
-[
-    {
-        "url": "",
-        "id": "1",
-        "title": "",
-        "isFavorite": false
-    },
-    {
-        "url": "",
-        "id": "2",
-        "title": "",
-        "isFavorite": false
-    },
-    {
-        "url": "",
-        "id": "3",
-        "title": "",
-        "isFavorite": false
-    },
-    {
-        "url": "",
-        "id": "4",
-        "title": "",
-        "isFavorite": false
-    },
-    {
-        "url": "",
-        "id": "5",
-        "title": "",
-        "isFavorite": false
-    }
-]
+{
+    "hikes": [
+        {
+            "url": "https://github.com/geanu02/hikes_api/blob/master/images/pic1.jpg?raw=true",
+            "id": "1",
+            "title": "Castle Crags",
+            "isFavorite": false
+        },
+        {
+            "url": "https://github.com/geanu02/hikes_api/blob/master/images/pic2.jpg?raw=true",
+            "id": "2",
+            "title": "Mount Shasta",
+            "isFavorite": false
+        },
+        {
+            "url": "https://github.com/geanu02/hikes_api/blob/master/images/pic3.jpg?raw=true",
+            "id": "3",
+            "title": "Central Park South",
+            "isFavorite": false
+        },
+        {
+            "url": "https://github.com/geanu02/hikes_api/blob/master/images/pic4.jpg?raw=true",
+            "id": "4",
+            "title": "Fisher Towers",
+            "isFavorite": false
+        },
+        {
+            "url": "https://github.com/geanu02/hikes_api/blob/master/images/pic5.jpg?raw=true",
+            "id": "5",
+            "title": "Colorado",
+            "isFavorite": false
+        }
+    ]
+}
