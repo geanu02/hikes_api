@@ -29,6 +29,48 @@
             "id": "5",
             "title": "Colorado",
             "isFavorite": false
+        },
+        {
+            "url": "https://github.com/geanu02/hikes_api/blob/master/images/pic6.jpg?raw=true",
+            "id": "6",
+            "title": "Phang Nga Bay",
+            "isFavorite": false
+        },
+        {
+            "url": "https://github.com/geanu02/hikes_api/blob/master/images/pic7.jpg?raw=true",
+            "id": "7",
+            "title": "Indre Nørrebro",
+            "isFavorite": false
+        },
+        {
+            "url": "https://github.com/geanu02/hikes_api/blob/master/images/pic8.jpg?raw=true",
+            "id": "8",
+            "title": "Yosemite Valley",
+            "isFavorite": false
+        },
+        {
+            "url": "https://github.com/geanu02/hikes_api/blob/master/images/pic9.jpg?raw=true",
+            "id": "9",
+            "title": "Playa Dante",
+            "isFavorite": false
+        },
+        {
+            "url": "https://github.com/geanu02/hikes_api/blob/master/images/pic10.jpg?raw=true",
+            "id": "10",
+            "title": "Playa Dantita",
+            "isFavorite": false
+        },
+        {
+            "url": "https://github.com/geanu02/hikes_api/blob/master/images/pic11.jpg?raw=true",
+            "id": "11",
+            "title": "Playa Conchal",
+            "isFavorite": false
+        },
+        {
+            "url": "https://github.com/geanu02/hikes_api/blob/master/images/pic12.jpg?raw=true",
+            "id": "12",
+            "title": "Reserva Conchal",
+            "isFavorite": false
         }
     ]
 }
